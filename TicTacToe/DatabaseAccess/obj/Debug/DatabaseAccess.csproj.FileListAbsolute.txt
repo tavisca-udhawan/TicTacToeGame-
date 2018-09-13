@@ -1,0 +1,11 @@
+C:\Users\udhawan\source\repos\TicTacToe\DatabaseAccess\bin\Debug\DatabaseAccess.dll.config
+C:\Users\udhawan\source\repos\TicTacToe\DatabaseAccess\bin\Debug\DatabaseAccess.dll
+C:\Users\udhawan\source\repos\TicTacToe\DatabaseAccess\bin\Debug\DatabaseAccess.pdb
+C:\Users\udhawan\source\repos\TicTacToe\DatabaseAccess\bin\Debug\EntityFramework.dll
+C:\Users\udhawan\source\repos\TicTacToe\DatabaseAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\udhawan\source\repos\TicTacToe\DatabaseAccess\bin\Debug\EntityFramework.xml
+C:\Users\udhawan\source\repos\TicTacToe\DatabaseAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\udhawan\source\repos\TicTacToe\DatabaseAccess\obj\Debug\DatabaseAccess.csprojResolveAssemblyReference.cache
+C:\Users\udhawan\source\repos\TicTacToe\DatabaseAccess\obj\Debug\DatabaseAccess.csproj.CoreCompileInputs.cache
+C:\Users\udhawan\source\repos\TicTacToe\DatabaseAccess\obj\Debug\DatabaseAccess.dll
+C:\Users\udhawan\source\repos\TicTacToe\DatabaseAccess\obj\Debug\DatabaseAccess.pdb
